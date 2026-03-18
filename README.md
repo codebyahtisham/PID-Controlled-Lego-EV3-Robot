@@ -5,7 +5,7 @@
 <br>
 
 > **Can a robot drive in a perfectly straight line?**
-> Not without feedback control, Right and that's exactly what we built.
+> Not without feedback control, Right? and that's exactly what we built.
 
 <br>
 
